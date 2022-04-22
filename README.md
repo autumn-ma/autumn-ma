@@ -17,7 +17,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="http://img0.joyreactor.com/pics/post/full/orange-magik-gif-anime-cyberpunk-2887639.gif" width="600" />
 </div>
   ---
 
