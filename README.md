@@ -22,9 +22,7 @@
   ---
 
 ### :woman_technologist: About Me :
-  - :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
-
-- :seedling: Exploring Machine Learning.
+- :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
 
 - :zap: In my free time, I solve issues on Github, help newbies on discord, and listen to music. 
 
